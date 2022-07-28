@@ -1,0 +1,32 @@
+
+th {
+  padding: 15px 0;
+  text-align: center;
+  border:1px solid rgb(17, 15, 15);
+border-radius: 15px;
+border-top-style: none;
+border-right-style: solid;
+border-bottom-style: solid;
+border-left-style: none;
+width: 800px;
+}
+
+.full{
+  position: relative;
+  left: 400px;
+  top: 200px;
+ 
+}
+
+td {
+  padding: 15px 0;
+  text-align: center;
+  border:1px solid rgb(16, 15, 15);
+  border-radius: 15px;
+  border-top-style: none;
+border-right-style: solid;
+border-bottom-style: dotted;
+border-left-style: none;
+
+
+  }
